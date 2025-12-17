@@ -34,7 +34,6 @@ Hi there, I'm Nafih KH,and I'm excited to share my world of web and design with 
 ![Chart.js](https://img.shields.io/badge/chart%20js-black?style=flat-square&logo=chart.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![EJS](https://img.shields.io/badge/ejs-black?style=flat-square&logo=ejs&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ## Tools & Services
-![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Swagger](https://img.shields.io/badge/swagger-black?style=flat-square&logo=swagger&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/aws-black?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
