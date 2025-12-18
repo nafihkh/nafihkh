@@ -19,7 +19,6 @@ Hi there, I'm Nafih KH,and I'm excited to share my world of web and design with 
 &nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://telegram.me/Nafihkh)
 
 ## Languages
-![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,7 +40,6 @@ Hi there, I'm Nafih KH,and I'm excited to share my world of web and design with 
 ![JWT](https://img.shields.io/badge/jwt-black?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Axios](https://img.shields.io/badge/axios-black?style=flat-square&logo=axios&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Nodemailer](https://img.shields.io/badge/nodemailer-black?style=flat-square&logo=nodemailer&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Razorpay](https://img.shields.io/badge/razorpay-black?style=flat-square&logo=razorpay&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
