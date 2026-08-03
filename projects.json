@@ -1,0 +1,44 @@
+[
+  {
+    "name": "JobSeek",
+    "repo": "nafihkh/FIRST_PROJECT",
+    "logo": "jobseek.png",
+    "description": "A full-stack MERN job portal.",
+    "tags": ["Node.js", "Express", "MongoDB"]
+  },
+  {
+    "name": "Fonest",
+    "repo": "nafihkh/Fonest",
+    "logo": "fonest.png",
+    "description": "A full-stack MERN marketplace platform.",
+    "tags": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "name": "NutriAI",
+    "repo": "nafihkh/NutriAI",
+    "logo": "nutriai.png",
+    "description": "An AI-powered nutrition assistant.",
+    "tags": ["JavaScript", "AI", "API"]
+  },
+  {
+    "name": "BoatBooking",
+    "repo": "nafihkh/boatbooking-stackathon",
+    "logo": "boatbooking.png",
+    "description": "A modern boat booking platform built during a hackathon with responsive UI and streamlined reservation workflows.",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Cutting Dies",
+    "repo": "nafihkh/Cutting_Dies_Web_live_project",
+    "logo": "cuttingdies.png",
+    "description": "A professional business website developed for a cutting dies manufacturer with responsive design and custom branding.",
+    "tags": ["HTML", "CSS", "Bootstrap"]
+  },
+  {
+    "name": "Portfolio",
+    "repo": "nafihkh/PORTFOLIO",
+    "logo": "portfolio.png",
+    "description": "A modern developer portfolio showcasing projects, technical skills, achievements, and interactive web experiences.",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  }
+]
